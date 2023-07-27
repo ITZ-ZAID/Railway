@@ -10,3 +10,13 @@ An Script to host on railway.app ~
 # Deploy 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RXeiAo?referralCode=GTp-zc)
+
+
+## Through Railway CLI
+```sh
+npm i -g @railway/cli
+railway init
+railway login
+railway link
+railway up --detach
+```
