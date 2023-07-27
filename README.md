@@ -15,8 +15,8 @@ An Script to host on railway.app ~
 ## Through Railway CLI
 ```sh
 npm i -g @railway/cli
-railway init
 railway login
+railway init
 railway link
 railway up --detach
 ```
