@@ -1,7 +1,0 @@
-version: 1.0.0
-components:
-  - name: telegram-bot
-    type: service
-    properties:
-      runtime: docker
-      dockerfile_path: Dockerfile
